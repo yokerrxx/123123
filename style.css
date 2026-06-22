@@ -39,3 +39,11 @@
 .post-item:hover img {
     filter: brightness(0.8);
 }
+body {
+    background: lightgray;
+    color: black;
+}
+.dark {
+    background: black;
+    color: white;
+}
